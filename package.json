@@ -14,7 +14,7 @@
     "@emotion/styled": "11.11.5"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "typescript": "5.8.2"
   },
   "scripts": {
     "start": "react-scripts start",
